@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Nunito', sans-serif;
+    color: #ac2483;    
+    display:contents;
+    margin: 0;
+
+}
+
+h1{
+    font-size: large;
+    color: #8b1166;
+}
+h2{
+    color: rgb(34, 200, 200);
+    font-size: 28px;
+    text-align: center;
+}
+h4{
+    color: rgb(34, 200, 200);
+    font-size: 20px;
+    text-align: left;
+}
+h7{
+    font-size: medium;
+}
+
+.btn{
+    
+    border-bottom-color: none;
+    background-color: #8b1166;
+    color: rgb(255, 255, 255);
+    align-items: center;
+
+}
+
+ .container{
+
+    justify-content: space-between;
+    position:static;
+    align-content: center;
+    display: table;
+} 
+
+.btn:hover{
+    background-color: #ff07ee;
+}
+h5{
+    text-align: center;
+}
+.lead{
+    color: #000;
+}
+footer{
+    background-image:url(../login/IMG/81744.jpg);
+    color: #000;
+}
+.form-control{
+    width: 40%;
+    height: 20%;
+}
+.productos{
+    display: table;
+    width: 100%;
+}
+.producto-espacio {
+    width: calc(100%/5 - 20px);
+    display:inline-table;
+}
+/* .card{
+    /* width: 100%;
+    margin: 0; 
+} */
+.img-thumbnail{
+    width: 200px;
+    height: 200px;
+}
+.card-img{
+    align-content: center;
+}
+.table{
+    width: 90%;
+
+    align-content: center;
+}

@@ -1,0 +1,17 @@
+h1{
+    color: #d7169dee;
+    font-family: 'Nunito', sans-serif;
+}
+body{
+    /*background-image:url(../login/IMG/81744.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    font-family: 'Nunito', sans-serif;
+    color: #8b1166;    
+    /*display: flex;*/
+}
+h2{
+    color: rgb(34, 200, 200);
+    font-size: 28px;
+    text-align: center;
+}

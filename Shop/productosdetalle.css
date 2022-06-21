@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Nunito', sans-serif;
+    color: #ac2483;    
+    display:flow-root;
+    align-content: center;
+
+}
+
+h1{
+    font-size: large;
+    color: #8b1166;
+}
+.btn{
+    
+    border-bottom-color: none;
+    background-color: #8b1166;
+    color: rgb(0, 0, 0);
+}

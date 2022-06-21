@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Nunito', sans-serif;
+    color: #ac2483;    
+    display:flow-root;
+
+}
+
+h1{
+    font-size: large;
+    color: #8b1166;
+}
+h2{
+    color: rgb(34, 200, 200);
+    font-size: 28px;
+    text-align: center;
+}
+h4{
+    font-size: 20px;
+    text-align: center;
+}
+h6,h5{
+    text-align: justify;
+    color: #3d032b;
+}
+.form_reg{
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+     max-width: 300px;
+     text-align: left;
+    /*margin: 3 auto;
+    padding: 6% 0 0;
+    margin-top: 1%;
+    position: absolute; */
+
+}
+
+.btn_reg{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+}
+
+.btn_registra, .btn_limpia{
+    background-color: rgba(60, 244, 229, 0.728);
+    margin: 2rem 0;
+    border: none;
+    border-bottom:none
+}
+.form-control{
+    background-color: #98167177;
+    border: none;
+    border-bottom: solid .2rem;
+    transition: all .5s;
+}
+.btn_registra, .btn_limpia{
+    width: 30%;
+    border-bottom-color: none;
+    background-color: #8b1166;
+    color: rgb(255, 255, 255);
+}
+
+.btn_limpia:hover{
+    background-color: #ff0707;
+}
+.btn_registra:hover{
+    background-color: rgb(46, 203, 7);
+}
+.container{
+
+    justify-content: space-between;
+    position:static;
+    align-content: center;
+}
+.ok{
+    width: 100%;
+    padding: 12px;
+    background-color: aqua;
+    color:azure;
+}
+.table{
+    width: 90%;
+
+    align-content: center;
+}
+.col{
+    color: #8b1166;
+}
+.btn-outline{
+    background-color: #8b116681;
+    color:black
+}
+col{
+    color: #8b1166;
+}
